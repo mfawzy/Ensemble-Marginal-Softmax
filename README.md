@@ -4,7 +4,7 @@
 
  **Under Review** ([arXiv link]())
 
-![Learning Algo](/model.jpg)
+![Learning Algo](/model.PNG)
 
 
 ### Table of Contents  
@@ -24,4 +24,4 @@ Download the Pretrained EMMS model from [here](https://drive.google.com/file/d/1
   python test.py 
 ```
 
-![Results](/results.png)
+![Results](/results.PNG)
